@@ -4,7 +4,6 @@ A university-level cybersecurity project conducted at Qatar University that expl
 
 ## 👨‍💻 Team Members
 - Haris Khan  
-- Ifran Rafi  
 - Hunzalah Hassan Bhatti  
 - Ahmed Faseeh Akram  
 
