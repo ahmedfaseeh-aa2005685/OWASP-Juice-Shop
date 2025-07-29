@@ -35,3 +35,5 @@ A university-level cybersecurity project conducted at Qatar University that expl
    cd juice-shop
    npm install
    npm start
+
+🛡️ This project is for educational and ethical hacking purposes only. All demonstrations were performed in a safe, local lab environment.
